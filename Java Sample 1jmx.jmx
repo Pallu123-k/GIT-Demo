@@ -8,6 +8,15 @@
       <boolProp name="TestPlan.functional_mode">false</boolProp>
       <boolProp name="TestPlan.serialize_threadgroups">false</boolProp>
     </TestPlan>
+
+    @Test
+    public void memo(){
+    }
+    @Test
+        public void memo1(){
+        }
+
+
     <hashTree>
       <ThreadGroup guiclass="ThreadGroupGui" testclass="ThreadGroup" testname="Thread Group">
         <intProp name="ThreadGroup.num_threads">10</intProp>
